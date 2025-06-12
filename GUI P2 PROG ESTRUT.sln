@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36203.30 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI P2 PROG ESTRUT", "GUI P2 PROG ESTRUT.csproj", "{A30DDD99-98AF-4FE3-B03C-6C29EFB381D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A30DDD99-98AF-4FE3-B03C-6C29EFB381D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A30DDD99-98AF-4FE3-B03C-6C29EFB381D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A30DDD99-98AF-4FE3-B03C-6C29EFB381D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A30DDD99-98AF-4FE3-B03C-6C29EFB381D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18334BB3-2170-41E7-BF7C-0D13784CBBBC}
+	EndGlobalSection
+EndGlobal
